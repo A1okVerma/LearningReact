@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import SampleFunc from './Sample';
+
 
 function App() {
   return (
-    <h1>Hello, React!</h1>
+    <>
+    <SampleFunc/>
+    </>
   );
 }
 
